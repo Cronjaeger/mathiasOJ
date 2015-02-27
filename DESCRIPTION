@@ -1,0 +1,8 @@
+Package: mathiasOJ
+Title: Analyze the price of OJ in 1983
+Version: 0.1
+Authors@R: "Mathias C. Cronjäger <kitkat2.0@gmail.com> [aut, cre]"
+Description: Look at the prize of Orenge Juice futures in the period 1983-01-01 to 1984-01-01
+Depends: R (>= 3.1.2)
+License: What license is it under?
+LazyData: true
